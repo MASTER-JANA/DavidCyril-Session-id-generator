@@ -59,21 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By FEARLESS*
-*_Made With 🤍_*
+*_Session Connected By JANA MD*
+*_Made With JANA🤍_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ZENITSU CRASH V2 』*
+║ *『 KING JANA MD WHATSAPP BOT CONNECTED 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
-║❒ *Owner:* https://wa.me/2348075952205_
-║❒ *Repo:* _https://github.com/Fearless-tech1_
-║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
-║❒ *Plugins:* _https://github.com/Fearless-tech1 
+║❒ *Ytube:* _https://www.youtube.com/@JANATECH01
+║❒ *Owner:* https://wa.me/94720958258_
+║❒ *Repo:* _https://github.com/MASTER-JANA/JANA-MD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/EH8gMqxRTiB4y33GMLbRoA
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb6uiMr4NVibhraw723q
+║❒ *Plugins:* _https://github.com/MASTER-JANA/JANA-MD 
 ╚════════════════════════╝
 _____________________________________
 	
