@@ -68,10 +68,10 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _https://www.youtube.com/JANATECH01
 ║❒ *Owner:* https://wa.me/94720958258_
-║❒ *Repo:* _https://github.com/MASTERJANA_
+║❒ *Repo:* _https://github.com/MASTER-JANA_
 ║❒ *WaGroup:* _https://whatsapp.com/channel/0029Vb6uiMr4NVibhraw723q
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb6uiMr4NVibhraw723q
-║❒ *Plugins:* _https://github.com/MASTERJANA
+║❒ *Plugins:* _https://github.com/MASTER-JANA
 ╚════════════════════════╝
 _____________________________________
 
