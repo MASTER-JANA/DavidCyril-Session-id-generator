@@ -29,5 +29,5 @@ Now Deploy
 [`HERE'S AN EXAMPLE OUTPUT`](https://wasi-session-test-2d5de70f8522.herokuapp.com)
 # `Owner`
 
- <a href="https://github.com/MASTER-JANA"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="JANA QUOTES ᥫᩣ"/></a>
+ <a href="https://github.com/MASTER-JANA"><img src="https://files.catbox.moe/334aac.jpg" width="250" height="250" alt="JANA QUOTES ᥫᩣ"/></a>
 
